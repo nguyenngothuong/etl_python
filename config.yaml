@@ -1,5 +1,0 @@
-database:
-  server: 'THUONGSPC\SQLEXPRESS'
-  database: 'simigo_dw'
-  username: 'thuong_admin'
-  password: 'hello'
