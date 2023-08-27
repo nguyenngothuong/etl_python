@@ -6,3 +6,5 @@ idea nó dạng như thế này nhé anh em
 
 
 mình dùng tool gì cũng được, nhưng ở đây tôi dùng python để extract, transform và load vào database
+
+link video ytb: https://www.youtube.com/watch?v=oqSayj8SEMA
